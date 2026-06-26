@@ -1,4 +1,4 @@
-# primeiro-reposit-rio
+# primeiro-repositorio
 projetos escola
 
 este projeto foi criado como atividade do curso técnico de informatíca
